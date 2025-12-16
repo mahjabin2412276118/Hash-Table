@@ -70,3 +70,8 @@ void probe3(){
     }
 
 }
+int main(){
+    createhashtable();
+    probe3();
+    return 0;
+}
